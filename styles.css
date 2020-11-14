@@ -1,6 +1,6 @@
 /* Website - Background style*/
 main{
-    background-image: url("/Assets/Images/Website/background.png");
+    background-image: url("Assets/Images/Website/background.png");
     background-repeat: repeat;
 }
 
