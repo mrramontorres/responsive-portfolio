@@ -1,0 +1,61 @@
+/* Website - Background style*/
+main{
+    background-image: url("/Assets/Images/Website/background.png");
+    background-repeat: repeat;
+}
+
+/* Website - Navigation and Navbar style */
+nav {
+    background-color:White;
+}
+
+h1.navbar-brand{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 26px;
+    background-color:#54b3ae;
+}
+
+/* Webesite - Article style */
+.container{
+    margin-top: 75px;
+    margin-bottom: 75px;
+    margin-left: 25px;
+}
+.col-md-8{
+    background-color: white;
+    padding-bottom: 25px;
+}
+
+
+/* Website - Article title style */
+h1.display-4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-size: 38px;
+    color:#54b3ae;
+    padding-top: 25px;
+}
+
+
+/* Contact Page - Button Style */
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #54b3ae !important;
+}
+
+.button.btn.btn-primary{
+    background:#54b3ae;
+}
+
+/* Contact Page - Form Style */
+.form-group{
+    margin-left:20px;
+}
+
+/* Website - Footer Style */
+footer{
+    background-color:#717171;
+    border-top-style: solid;
+    border-color: #54b3ae;
+    border-width: 10px;
+}
